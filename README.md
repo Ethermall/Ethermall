@@ -9,9 +9,8 @@
 
 ### Contacts:
 
-- ***[Twitter](https://twitter.com/popeqkacper)***
+![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
+![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)
 
-- ***[GitHub( This doesn't make sense ,does it? )](https://github.com/Kacperaan)***
 
 - ***[Coffee](https://www.buymeacoffee.com/kacperaann)***
-
