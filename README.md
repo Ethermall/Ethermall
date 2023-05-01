@@ -1,3 +1,5 @@
+<div align="center">
+ 
  # Kacperaan
  ![](https://komarev.com/ghpvc/?username=kacperaan&style=for-the-badge)
  
@@ -18,3 +20,4 @@
 
 ### Stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kacperaan&show_icons=true&theme=dark)
+</div>
