@@ -1,4 +1,4 @@
- # Kacperaan![](https://komarev.com/ghpvc/?username=kacperaan)
+ # Kacperaan![](https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge)
  
 ### Qualifications:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
