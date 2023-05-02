@@ -2,6 +2,10 @@
  
  # Kacperaan
  ![](https://komarev.com/ghpvc/?username=kacperaan&style=for-the-badge)
+ 
+ ## About Me:
+ I'm a self-taught person learning and practicing building machine learning based projects
+ 
  ### Contacts/Socials:
  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/popeqkacper)
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/kacperaann)
