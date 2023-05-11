@@ -2,8 +2,6 @@
  
  # Kacperaan
  [![Kacperaan - MatrixForge](https://img.shields.io/static/v1?label=Kacperaan&message=MatrixForge&color=blue&logo=github)](https://github.com/Kacperaan/MatrixForge "Go to GitHub repo")
-[![stars - MatrixForge](https://img.shields.io/github/stars/Kacperaan/MatrixForge?style=social)](https://github.com/Kacperaan/MatrixForge)
-[![forks - MatrixForge](https://img.shields.io/github/forks/Kacperaan/MatrixForge?style=social)](https://github.com/Kacperaan/MatrixForge)
 
  ![](https://komarev.com/ghpvc/?username=kacperaan&style=for-the-badge)  
  
