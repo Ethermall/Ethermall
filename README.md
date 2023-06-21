@@ -25,5 +25,3 @@
  
  ### Stats:
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kacperaan&show_icons=true&theme=dark)
- 
- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=matrix-forge&repo=matrix-forge)](https://github.com/anuraghazra/github-readme-stats)
