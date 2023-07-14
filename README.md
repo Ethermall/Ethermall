@@ -7,6 +7,7 @@
 ___
 
 **Welcome to my profile!**
+<br>
 I'm self-taught student learning machine-learning.
 
 |⚙ My Projects|✰ Stars|♆ Forks|📄 Language|🛠️ Development|
