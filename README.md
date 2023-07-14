@@ -1,4 +1,6 @@
 # 🐤Kacperaan
+![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white)
+![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)<br>
 Welcome to my profile!
 I'm self-taught student learning machine-learning. 
 
