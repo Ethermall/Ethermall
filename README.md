@@ -1,4 +1,4 @@
-# ✨Kacperaan
+# 🐤Kacperaan
 Welcome to my profile!
 I'm self-taught student learning machine-learning. 
 
