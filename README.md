@@ -1,6 +1,6 @@
 # Kacperaan
 Welcome to my profile!
-I'm self-taught student learning and practicing machine-learning models. 
+I'm self-taught student learning machine-learning. 
 
 |My Projects|Stars|Issues|Language|Development|Description|
 |------------|-----|------|------|------|-----|
