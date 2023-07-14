@@ -6,10 +6,10 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ___
 
-Welcome to my profile!
-I'm self-taught student learning machine-learning. 
+**Welcome to my profile!**
+I'm self-taught student learning machine-learning.
 
-|⚙ My Projects|✰ Stars|♆ Forks|📄 Language|🛠️ Development
+|⚙ My Projects|✰ Stars|♆ Forks|📄 Language|🛠️ Development|
 |------------|-----|------|------|------|
 |🤖 Matrix-Forge|||Python|Pre-Alpha|
 |⛓ Rhadon|||C|Pre-Release|
