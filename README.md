@@ -10,7 +10,7 @@ ___
 <br>
 I'm self-taught student learning machine-learning.
 
-|⚙ My Projects|✰ Stars|♆ Forks|📄 Language|🛠️ Development|
+|⚙ My Projects|✰ Stars|♆ Forks|📙 Language|✔️ Status|
 |------------|-----|------|------|------|
 |🤖 Matrix-Forge|||Python|Pre-Alpha|
 |⛓ Rhadon|||C|Pre-Release|
