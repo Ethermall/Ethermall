@@ -1,4 +1,4 @@
-# 🐤Kacperaan | ![](https://komarev.com/ghpvc/?username=kacperaan)
+# 🐤Kacperaan | ![](https://komarev.com/ghpvc/?username=your-github-username&style=for-the-badge)
 <a href="https://quora.com">![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white)</a>
 <a href="https://reddit.com/u/kacperaan">![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)</a>
 <a href="https://quora.com">![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)</a>
