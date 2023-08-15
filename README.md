@@ -1,4 +1,5 @@
 # 🐤Kacperaan | ![](https://komarev.com/ghpvc/?username=kacperaan&style=for-the-badge)
+## Contacts
 <a href="https://quora.com">![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white)</a>
 <a href="https://reddit.com/u/kacperaan">![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)</a>
 <a href="https://quora.com">![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)</a>
@@ -6,10 +7,12 @@
 <a href="https://github.com/kacperaan">![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)</a>
 ___
 
+## About me
 **Welcome to my profile!**
 <br>
 I'm self-taught student learning machine-learning.
 
+## My projects
 |⚙ My Projects|✰ Stars|♆ Forks|📙 Language|✔️ Status|
 |------------|-----|------|------|------|
 |🤖 Matrix-Forge|||Python|Pre-Alpha|
