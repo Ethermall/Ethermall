@@ -1,4 +1,4 @@
-# 🐤Kacperaan | ![](https://komarev.com/ghpvc/?username=kacperaan&style=for-the-badge)
+# 🐤Kacperaan | ![](https://komarev.com/ghpvc/?username=kacperaan&style=for-the-badge) ![](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)
 ## Languages and tools
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
