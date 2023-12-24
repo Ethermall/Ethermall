@@ -8,6 +8,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kacperaan&theme=blue-green)
 ___
 ## Projects
-<img src="https://github.com/corsum/rhaddon/blob/main/branding/logo-black.png" width="5%">
+<a href="https://github.com/corsum/rhaddon/"><img src="https://github.com/corsum/rhaddon/blob/main/branding/logo-black.png" width="5%"></a>
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kacperaan&show_icons=true&theme=dark)
