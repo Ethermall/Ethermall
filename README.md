@@ -19,9 +19,7 @@
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&random=false&width=435&lines=Projects)](https://git.io/typing-svg)
-<br>
-<a href="https://github.com/corsum/rhaddon/"><img src="https://github.com/corsum/rhaddon/blob/main/branding/logo-white.png" width="3%"></a>
- 
+<br> 
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=corsum&repo=rhaddon&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
 
 <!--
@@ -43,4 +41,6 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kacperaan&theme=blue-green)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kacperaan&show_icons=true&theme=dark)
+
+<a href="https://github.com/corsum/rhaddon/"><img src="https://github.com/corsum/rhaddon/blob/main/branding/logo-white.png" width="3%"></a>
 -->
