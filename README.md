@@ -14,3 +14,5 @@ ___
 <a href="https://github.com/corsum/rhaddon/"><img src="https://github.com/corsum/rhaddon/blob/main/branding/logo-white.png" width="5%"></a>
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kacperaan&show_icons=true&theme=dark)
+
+![Snake animation](https://github.com/kacperaan/kacperaan/blob/output/github-contribution-grid-snake.svg)
