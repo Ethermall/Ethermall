@@ -8,6 +8,13 @@
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![BASH](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+<br>
+<img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/linux.svg" width="3%">
+<img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/ubuntu.svg" width="3%">
+<img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/c.svg" width="3%">
+<img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/vim.svg" width="3%">
+<img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/git.svg" width="3%">
+<img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/github.svg" width="3%">
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kacperaan&theme=blue-green)
 ___
@@ -18,5 +25,3 @@ ___
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kacperaan&show_icons=true&theme=dark)
  
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=corsum&repo=rhaddon&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
-
-<img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/vim.svg" width="5%" color=white>
