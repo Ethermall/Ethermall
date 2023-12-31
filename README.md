@@ -1,4 +1,12 @@
-# 🐤Kacperaan | ![](https://komarev.com/ghpvc/?username=kacperaan&style=for-the-badge) ![](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white)
+# 🐤Kacperaan | ![](https://komarev.com/ghpvc/?username=kacperaan&style=for-the-badge) ![](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white) <img width="3%" src="https://cdn.simpleicons.org/opencollective/lightblue, white"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&random=false&width=435&lines=Contact)](https://git.io/typing-svg)
+<br>
+<img width="3%" src="https://cdn.simpleicons.org/gmail/white"/>
+<img width="3%" src="https://cdn.simpleicons.org/quora/red,black"/>
+<img width="3%" src="https://cdn.simpleicons.org/reddit/orange,red"/>
+<img width="3%" src="https://cdn.simpleicons.org/x/white"/>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&random=false&width=435&lines=Tools+and+technologies)](https://git.io/typing-svg)
 <br>
 <img width="3%" src="https://cdn.simpleicons.org/linux/black"/>
@@ -56,5 +64,6 @@
 <a href="https://github.com/corsum/rhaddon/"><img src="https://github.com/corsum/rhaddon/blob/main/branding/logo-white.png" width="3%"></a>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kacperaan&theme=blue-green)
 
--->
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kacperaan&orgs=corsum)
+![dsa](https://starchart.cc/corsum/rhaddon.svg)
+-->
