@@ -8,6 +8,7 @@
 <img width="3%" src="https://cdn.simpleicons.org/git/white"/>
 <img width="3%" src="https://cdn.simpleicons.org/github/white"/>
 <img width="3%" src="https://cdn.simpleicons.org/gnubash/white"/>
+<img width="3%" src="https://cdn.simpleicons.org/visualstudiocode/white"/>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kacperaan&theme=blue-green)
 ___
