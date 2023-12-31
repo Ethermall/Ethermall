@@ -1,4 +1,4 @@
-# 🐤Kacperaan | ![](https://komarev.com/ghpvc/?username=kacperaan&style=for-the-badge) ![](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white) <img width="3%" src="https://cdn.simpleicons.org/opencollective/lightblue, white"/>
+# 🐤Kacperaan | ![Visitor Count](https://profile-counter.glitch.me/kacperaan/count.svg) <img width="3%" src="https://cdn.simpleicons.org/opencollective/lightblue, white"/> <img width="3%" src="https://cdn.simpleicons.org/githubsponsors"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&random=false&width=435&lines=Contact)](https://git.io/typing-svg)
 <br>
@@ -67,3 +67,4 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kacperaan&orgs=corsum)
 ![dsa](https://starchart.cc/corsum/rhaddon.svg)
 -->
+![](https://komarev.com/ghpvc/?username=kacperaan&style=for-the-badge)
