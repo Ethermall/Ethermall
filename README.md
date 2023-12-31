@@ -1,12 +1,5 @@
 # 🐤Kacperaan | ![Visitor Count](https://profile-counter.glitch.me/kacperaan/count.svg) <img width="3%" src="https://cdn.simpleicons.org/opencollective/lightblue, white"/> <img width="3%" src="https://cdn.simpleicons.org/githubsponsors"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&random=false&width=435&lines=Contact)](https://git.io/typing-svg)
-<br>
-<img width="3%" src="https://cdn.simpleicons.org/gmail/white"/>
-<img width="3%" src="https://cdn.simpleicons.org/quora/red,black"/>
-<img width="3%" src="https://cdn.simpleicons.org/reddit/orange,red"/>
-<img width="3%" src="https://cdn.simpleicons.org/x/white"/>
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&random=false&width=435&lines=Tools+and+technologies)](https://git.io/typing-svg)
 <br>
 <img width="3%" src="https://cdn.simpleicons.org/linux/black"/>
@@ -25,6 +18,12 @@
 <img width="3%" src="https://cdn.simpleicons.org/torbrowser/purple"/>
 <img width="3%" src="https://cdn.simpleicons.org/gnu/white"/>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&random=false&width=435&lines=Contact)](https://git.io/typing-svg)
+<br>
+<img width="3%" src="https://cdn.simpleicons.org/gmail/white"/>
+<img width="3%" src="https://cdn.simpleicons.org/quora/red,black"/>
+<img width="3%" src="https://cdn.simpleicons.org/reddit/orange,red"/>
+<img width="3%" src="https://cdn.simpleicons.org/x/white"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&random=false&width=435&lines=Projects)](https://git.io/typing-svg)
 <br> 
