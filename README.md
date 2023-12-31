@@ -26,6 +26,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&random=false&width=435&lines=Stats)](https://git.io/typing-svg)
 <details>
   <summary>
+    Stats
   </summary>
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kacperaan&show_icons=true&theme=dark)
