@@ -9,6 +9,8 @@
 <img width="3%" src="https://cdn.simpleicons.org/github/white"/>
 <img width="3%" src="https://cdn.simpleicons.org/gnubash/white"/>
 <img width="3%" src="https://cdn.simpleicons.org/visualstudiocode/white"/>
+<img width="3%" src="https://cdn.simpleicons.org/replit/white"/>
+<img width="3%" src="https://cdn.simpleicons.org/notepadplusplus/white"/>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kacperaan&theme=blue-green)
 ___
@@ -29,3 +31,12 @@ ___
 ![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![BASH](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 -->
+
+<details>
+  <summary>
+   <img src="https://github.com/corsum/rhaddon/blob/main/branding/logo-white.png" width="3%">
+  </summary>
+
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=corsum&repo=rhaddon&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
+</details>
+
