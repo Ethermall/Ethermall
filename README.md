@@ -16,3 +16,5 @@ ___
 <a href="https://github.com/corsum/rhaddon/"><img src="https://github.com/corsum/rhaddon/blob/main/branding/logo-white.png" width="5%"></a>
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kacperaan&show_icons=true&theme=dark)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&random=false&width=435&lines=Languages+and+tools)](https://git.io/typing-svg)
