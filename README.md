@@ -12,6 +12,8 @@
 <img width="3%" src="https://cdn.simpleicons.org/replit/white"/>
 <img width="3%" src="https://cdn.simpleicons.org/notepadplusplus/white"/>
 <img width="3%" src="https://cdn.simpleicons.org/googlecolab/white"/>
+<img width="3%" src="https://cdn.simpleicons.org/firefox/white"/>
+<img width="3%" src="https://cdn.simpleicons.org/torbrowser/white"/>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kacperaan&theme=blue-green)
 ___
