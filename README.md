@@ -1,4 +1,4 @@
-# 🐤Kacperaan | ![Visitor Count](https://profile-counter.glitch.me/kacperaan/count.svg) <img width="3%" src="https://cdn.simpleicons.org/opencollective/lightblue, white"/> <img width="3%" src="https://cdn.simpleicons.org/githubsponsors"/>
+# 💯Kacperaan | ![Visitor Count](https://profile-counter.glitch.me/kacperaan/count.svg) <img width="3%" src="https://cdn.simpleicons.org/opencollective/lightblue, white"/> <img width="3%" src="https://cdn.simpleicons.org/githubsponsors"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&random=false&width=435&lines=Tools+and+technologies)](https://git.io/typing-svg)
 <br>
