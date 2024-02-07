@@ -2,21 +2,21 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&random=false&width=435&lines=Tools+and+technologies)](https://git.io/typing-svg)
 <br>
-<img width="3%" src="https://cdn.simpleicons.org/linux/black"/>
-<img width="3%" src="https://cdn.simpleicons.org/ubuntu/orange,red"/>
-<img width="3%" src="https://cdn.simpleicons.org/c/gray"/>
-<img width="3%" src="https://cdn.simpleicons.org/python/darkblue,green"/>
-<img width="3%" src="https://cdn.simpleicons.org/git/orange,yellow"/>
-<img width="3%" src="https://cdn.simpleicons.org/github/white"/>
-<img width="3%" src="https://cdn.simpleicons.org/gnubash/black"/>
-<img width="3%" src="https://cdn.simpleicons.org/visualstudiocode/darkblue,green"/>
-<img width="3%" src="https://cdn.simpleicons.org/replit/orange,yellow"/>
-<img width="3%" src="https://cdn.simpleicons.org/notepadplusplus/green,yellow"/>
-<img width="3%" src="https://cdn.simpleicons.org/googlecolab/yellow,red"/>
-<img width="3%" src="https://cdn.simpleicons.org/vim/green"/>
-<img width="3%" src="https://cdn.simpleicons.org/firefox/red,yellow"/>
-<img width="3%" src="https://cdn.simpleicons.org/torbrowser/purple"/>
-<img width="3%" src="https://cdn.simpleicons.org/gnu/white"/>
+<img width="3%" src="https://cdn.simpleicons.org/linux/red"/>
+<img width="3%" src="https://cdn.simpleicons.org/ubuntu/red"/>
+<img width="3%" src="https://cdn.simpleicons.org/c/red"/>
+<img width="3%" src="https://cdn.simpleicons.org/python/red"/>
+<img width="3%" src="https://cdn.simpleicons.org/git/red"/>
+<img width="3%" src="https://cdn.simpleicons.org/github/red"/>
+<img width="3%" src="https://cdn.simpleicons.org/gnubash/red"/>
+<img width="3%" src="https://cdn.simpleicons.org/visualstudiocode/red"/>
+<img width="3%" src="https://cdn.simpleicons.org/replit/red"/>
+<img width="3%" src="https://cdn.simpleicons.org/notepadplusplus/red"/>
+<img width="3%" src="https://cdn.simpleicons.org/googlecolab/red"/>
+<img width="3%" src="https://cdn.simpleicons.org/vim/red"/>
+<img width="3%" src="https://cdn.simpleicons.org/firefox/red"/>
+<img width="3%" src="https://cdn.simpleicons.org/torbrowser/red"/>
+<img width="3%" src="https://cdn.simpleicons.org/gnu/red"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&random=false&width=435&lines=Contact)](https://git.io/typing-svg)
 <br>
@@ -65,5 +65,26 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kacperaan&orgs=corsum)
 ![dsa](https://starchart.cc/corsum/rhaddon.svg)
+
+
+
+
+<img width="3%" src="https://cdn.simpleicons.org/linux/black"/>
+<img width="3%" src="https://cdn.simpleicons.org/ubuntu/orange,red"/>
+<img width="3%" src="https://cdn.simpleicons.org/c/gray"/>
+<img width="3%" src="https://cdn.simpleicons.org/python/darkblue,green"/>
+<img width="3%" src="https://cdn.simpleicons.org/git/orange,yellow"/>
+<img width="3%" src="https://cdn.simpleicons.org/github/white"/>
+<img width="3%" src="https://cdn.simpleicons.org/gnubash/black"/>
+<img width="3%" src="https://cdn.simpleicons.org/visualstudiocode/darkblue,green"/>
+<img width="3%" src="https://cdn.simpleicons.org/replit/orange,yellow"/>
+<img width="3%" src="https://cdn.simpleicons.org/notepadplusplus/green,yellow"/>
+<img width="3%" src="https://cdn.simpleicons.org/googlecolab/yellow,red"/>
+<img width="3%" src="https://cdn.simpleicons.org/vim/green"/>
+<img width="3%" src="https://cdn.simpleicons.org/firefox/red,yellow"/>
+<img width="3%" src="https://cdn.simpleicons.org/torbrowser/purple"/>
+<img width="3%" src="https://cdn.simpleicons.org/gnu/white"/>
+
+
 -->
 ![](https://komarev.com/ghpvc/?username=kacperaan&style=for-the-badge)
