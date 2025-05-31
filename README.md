@@ -30,7 +30,6 @@
 </details>
 
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![UBUNTU](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![VIM](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
@@ -58,19 +57,12 @@
 
 
 <img width="3%" src="https://cdn.simpleicons.org/linux/black"/>
-<img width="3%" src="https://cdn.simpleicons.org/ubuntu/orange,red"/>
 <img width="3%" src="https://cdn.simpleicons.org/c/gray"/>
-<img width="3%" src="https://cdn.simpleicons.org/python/darkblue,green"/>
 <img width="3%" src="https://cdn.simpleicons.org/git/orange,yellow"/>
 <img width="3%" src="https://cdn.simpleicons.org/github/white"/>
 <img width="3%" src="https://cdn.simpleicons.org/gnubash/black"/>
 <img width="3%" src="https://cdn.simpleicons.org/visualstudiocode/darkblue,green"/>
-<img width="3%" src="https://cdn.simpleicons.org/replit/orange,yellow"/>
-<img width="3%" src="https://cdn.simpleicons.org/notepadplusplus/green,yellow"/>
-<img width="3%" src="https://cdn.simpleicons.org/googlecolab/yellow,red"/>
 <img width="3%" src="https://cdn.simpleicons.org/vim/green"/>
-<img width="3%" src="https://cdn.simpleicons.org/firefox/red,yellow"/>
-<img width="3%" src="https://cdn.simpleicons.org/torbrowser/purple"/>
 <img width="3%" src="https://cdn.simpleicons.org/gnu/white"/>
 
 
