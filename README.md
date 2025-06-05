@@ -3,19 +3,13 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&random=false&width=435&lines=Tools+and+technologies)](https://git.io/typing-svg)
 <br>
 <img width="3%" src="https://cdn.simpleicons.org/linux/white"/>
-<img width="3%" src="https://cdn.simpleicons.org/ubuntu/white"/>
 <img width="3%" src="https://cdn.simpleicons.org/c/white"/>
-<img width="3%" src="https://cdn.simpleicons.org/python/white"/>
 <img width="3%" src="https://cdn.simpleicons.org/git/white"/>
 <img width="3%" src="https://cdn.simpleicons.org/github/white"/>
 <img width="3%" src="https://cdn.simpleicons.org/gnubash/white"/>
 <img width="3%" src="https://cdn.simpleicons.org/visualstudiocode/white"/>
-<img width="3%" src="https://cdn.simpleicons.org/replit/white"/>
-<img width="3%" src="https://cdn.simpleicons.org/notepadplusplus/white"/>
-<img width="3%" src="https://cdn.simpleicons.org/googlecolab/white"/>
 <img width="3%" src="https://cdn.simpleicons.org/vim/white"/>
-<img width="3%" src="https://cdn.simpleicons.org/firefox/white"/>
-<img width="3%" src="https://cdn.simpleicons.org/torbrowser/white"/>
+
 <img width="3%" src="https://cdn.simpleicons.org/gnu/white"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&random=false&width=435&lines=Stats)](https://git.io/typing-svg)
