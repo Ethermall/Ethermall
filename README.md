@@ -7,9 +7,7 @@
 <img width="3%" src="https://cdn.simpleicons.org/git/white"/>
 <img width="3%" src="https://cdn.simpleicons.org/github/white"/>
 <img width="3%" src="https://cdn.simpleicons.org/gnubash/white"/>
-<img width="3%" src="https://cdn.simpleicons.org/visualstudiocode/white"/>
 <img width="3%" src="https://cdn.simpleicons.org/vim/white"/>
-
 <img width="3%" src="https://cdn.simpleicons.org/gnu/white"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&random=false&width=435&lines=Stats)](https://git.io/typing-svg)
